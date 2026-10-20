@@ -16,7 +16,7 @@ Báo cáo thực hành môn **An toàn hệ thống thông tin** – Bộ môn A
 
 ## Video thực hành
 
-[![Video thực hành LAB 4 – Nmap](https://img.youtube.com/vi/kM0HXV2qF5o/hqdefault.jpg)](https://youtu.be/kM0HXV2qF5o)
+[![Video thực hành LAB 4 – Nmap](https://img.youtube.com/vi/kM0HXV2qF5o/hqdefault.jpg)](https://youtu.be/Y19vLefHHtg)
 
 Xem trên YouTube: https://youtu.be/kM0HXV2qF5o
 
