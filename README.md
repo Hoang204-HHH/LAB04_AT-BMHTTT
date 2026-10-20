@@ -12,13 +12,13 @@ Báo cáo thực hành môn **An toàn hệ thống thông tin** – Bộ môn A
 | Giảng viên | Phạm Trọng Huynh |
 | Ngày thực hiện | 29/09/2026 |
 | File báo cáo | [1150080095_HuynhHuuHoang_11CNPM2_BAOCAO_Word.docx](1150080095_HuynhHuuHoang_11CNPM2_BAOCAO_Word.docx) |
-| Video thực hành | https://youtu.be/kM0HXV2qF5o |
+| Video thực hành | https://youtu.be/Y19vLefHHtg |
 
 ## Video thực hành
 
-[![Video thực hành LAB 4 – Nmap](https://img.youtube.com/vi/kM0HXV2qF5o/hqdefault.jpg)](https://youtu.be/Y19vLefHHtg)
+[![Video thực hành LAB 4 – Nmap](https://img.youtube.com/vi/Y19vLefHHtg/hqdefault.jpg)](https://youtu.be/Y19vLefHHtg)
 
-Xem trên YouTube: [https://youtu.be/kM0HXV2qF5o](https://youtu.be/Y19vLefHHtg)
+Xem trên YouTube: [https://youtu.be/Y19vLefHHtg](https://youtu.be/Y19vLefHHtg)
 
 ## Mục tiêu bài lab
 
